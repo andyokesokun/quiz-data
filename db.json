@@ -10,15 +10,15 @@
       },
       {
          "id": 3,
-         "name": 'Question-Text-Answer"
+         "name": "Question-Text-Answer"
       },
       {
          "id": 4,
-         "name": 'Question-True-False"
+         "name": "Question-True-False"
       },
       {
          "id": 5,
-         "name": 'Question-with-image-answer'
+         "name": "Question-with-image-answer"
       }
    ]
    "quizzes" :[
@@ -83,7 +83,7 @@
             "questionTypeId" : 3,
             "answers":[
                {
-                  id: 1
+                  id: 1,
                   "text" : "Object Oriented Programing"
                }
             ]
