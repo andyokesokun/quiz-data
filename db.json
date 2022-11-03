@@ -37,7 +37,7 @@
             "text": "What is a java class",
             "quizId": 1,
             "questionTypeId" : 4,
-            "correctAnswerId" : 1
+            "correctAnswerId" : 1,
             "answers":[
                   {
                      "id": 1,
