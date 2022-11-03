@@ -1,4 +1,26 @@
 {
+   "questionTypes":[
+      {
+         "id": 1,
+         "name": "MutiChoice-Text-Button-Single-Answer"
+      },
+      {
+         "id": 2,
+         "name": "MutiChoice-Check-Box-Mutliple-Answer"
+      },
+      {
+         "id": 3,
+         "name": 'Question-Text-Answer"
+      },
+      {
+         "id": 4,
+         "name": 'Question-True-False"
+      },
+      {
+         "id": 5,
+         "name": 'Question-with-image-answer'
+      }
+   ]
    "quizzes" :[
       {
         "id": 1,
@@ -8,5 +30,65 @@
         "id": 2,
         "name" : "HTML"
       }
-   ]
+   ],
+   "questions-and-answers":[
+         {
+            "id" : 1,
+            "text": "What is a java class",
+            "quizId": 1,
+            "questionTypeId" : 4,
+            "correctAnswerId" : 1
+            "answers":[
+                  {
+                     id: 1,
+                     "text": "It is a blue print for creating objects"
+                  },
+                  {
+                     id: 2,
+                     "text": "An instance of a Car"
+                  },
+                  {
+                     id: 3,
+                     "text": "A class for studying"
+                  },
+                  {
+                     id: 4,
+                     "text": "A cooking Pot"
+                  }
+             ]
+            
+            
+         },
+         {
+            "id" : 2,
+            "text": "An object is an insatnce of a class",
+            "quizId": 1,
+            "questionTypeId" : 1,
+            "answers":[
+                   {
+                     id: 1,
+                     "text": true
+                  },
+                  {
+                     id: 2,
+                     "text": false
+                  }
+             ]
+            
+         },
+         {
+            "id" : 3,
+            "text": "What is OOP",
+            "quizId": 1,
+            "questionTypeId" : 3,
+            "answers":[
+               {
+                  id: 1
+                  "text" : "Object Oriented Programing"
+               }
+            ]
+            
+         }
+     ]
+     
 }
