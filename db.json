@@ -20,7 +20,7 @@
          "id": 5,
          "name": "Question-with-image-answer"
       }
-   ]
+   ],
    "quizzes" :[
       {
         "id": 1,
@@ -40,19 +40,19 @@
             "correctAnswerId" : 1
             "answers":[
                   {
-                     id: 1,
+                     "id": 1,
                      "text": "It is a blue print for creating objects"
                   },
                   {
-                     id: 2,
+                     "id": 2,
                      "text": "An instance of a Car"
                   },
                   {
-                     id: 3,
+                     "id": 3,
                      "text": "A class for studying"
                   },
                   {
-                     id: 4,
+                     "id": 4,
                      "text": "A cooking Pot"
                   }
              ]
@@ -66,11 +66,11 @@
             "questionTypeId" : 1,
             "answers":[
                    {
-                     id: 1,
+                     "id": 1,
                      "text": true
                   },
                   {
-                     id: 2,
+                     "id": 2,
                      "text": false
                   }
              ]
@@ -83,7 +83,7 @@
             "questionTypeId" : 3,
             "answers":[
                {
-                  id: 1,
+                  "id": 1,
                   "text" : "Object Oriented Programing"
                }
             ]
