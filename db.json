@@ -91,7 +91,7 @@
          },
          {
             "id" : 4,
-            "text": ""Which HTML tag creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address"",
+            "text": "Which HTML tag creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address",
             "quizId": 2,
             "questionTypeId" : 1,
             "answers":[
