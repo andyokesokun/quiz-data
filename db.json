@@ -67,11 +67,11 @@
             "answers":[
                    {
                      "id": 1,
-                     "text": true
+                     "text": "true"
                   },
                   {
                      "id": 2,
-                     "text": false
+                     "text": "false"
                   }
              ]
             
